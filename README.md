@@ -1,4 +1,4 @@
-#This was a group project complete during my time at Nashville Software School.  I completed the following questions.
+# This was a group project complete during my time at Nashville Software School.  I completed the following questions.
 
 ## Lahman Baseball Database Exercise
 - this data has been made available [online](http://www.seanlahman.com/baseball-archive/statistics/) by Sean Lahman
